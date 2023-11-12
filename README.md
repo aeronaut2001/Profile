@@ -26,8 +26,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhushan-sagar-76955021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhushan-sagar-76955021b/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aeronautbhushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aeronautbhushan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/bhushan_76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhushan_76/" height="30" width="40" /></a>
-</p>
-
+<a href="https://www.stratascratch.com/https://platform.stratascratch.com/user/bhushan_76" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/36822423?s=200&v=4" alt="https://platform.stratascratch.com/user/bhushan_76/" height="30" width="40" /></a>
+</p>      
+        
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> Cloud: </p>
