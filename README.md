@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bhushan Bhaskar Sagar</h1>
-<h3 align="center">A passionate Big Data Enthusiast from India</h3>
+<h3 align="center">A Big Data Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeronaut2001&label=Profile%20views&color=0e75b6&style=flat" alt="aeronaut2001" /> </p>
 
