@@ -58,7 +58,7 @@
   
 <p align="left"> DATA WAREHOUSING: </p> 
 <a href="https://hive.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="40" height="40"/> </a>
-<a href="https://www.snowflake.com" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Snowflake_Inc.#/media/File:Snowflake_Logo.svg" alt="Snowflake" width="40" height="40"/> </a>
+<a href="https://www.snowflake.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="40" height="40"/> </a>
 
 <p align="left"> DATA VISUALIZATION TOOLS: </p> 
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/> </a> </p>
