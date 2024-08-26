@@ -1,6 +1,6 @@
 
 ###
-<p align="right"> <img src="https://github.com/aeronaut2001/personal/blob/main/digital-skola-bertalenta-digital.gif?raw=true" alt="About Me GIF" width="500px"></p>
+<p align="right"> <img src="https://github.com/aeronaut2001/personal/blob/main/digital-skola-bertalenta-digital.gif?raw=true" alt="About Me GIF" width="300px"></p>
 
 <h1 align="Center"  height="200">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
