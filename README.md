@@ -2,15 +2,15 @@
 ###
 <p align="right"> <img src="https://github.com/aeronaut2001/personal/blob/main/digital-skola-bertalenta-digital.gif?raw=true" alt="About Me GIF" width="500px"></p>
 
-<p align="left"  height="200">
+<h1 align="Center"  height="200">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Bhushan+Sagar..;.Data+Engineer+and+Data+Enthusiast..;&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋,+I'm+Bhushan+Bhaskar+Sagar..;.Data+Engineer+and+Data+Enthusiast..;&center=true"></a></h1>
     
 
 
 
 
-<h1 align="center">Hi 👋, I'm Bhushan Bhaskar Sagar</h1>
+
 <h3 align="center">A Big Data Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeronaut2001&label=Profile%20views&color=0e75b6&style=flat" alt="aeronaut2001" /> </p>
