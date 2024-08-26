@@ -1,9 +1,11 @@
 
 ###
+<p align="right"> <img src="https://github.com/aeronaut2001/personal/blob/main/digital-skola-bertalenta-digital.gif?raw=true" alt="About Me GIF" width="500px"></p>
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-
-
+<p align="left"  height="200">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Bhushan+Sagar..;.Data+Engineer+and+Data+Enthusiast..;&center=true"></a></p>
+    
 
 
 
@@ -13,13 +15,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeronaut2001&label=Profile%20views&color=0e75b6&style=flat" alt="aeronaut2001" /> </p>
 
-- 🔭 I’m currently working on [Movie Rating Data Analysis](https://github.com/aeronaut2001/Movie-Rating-Analysis)
+
+
 
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aeronaut2001](https://github.com/aeronaut2001)
 
 - 📫 How to reach me **aeronautbhushan@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
